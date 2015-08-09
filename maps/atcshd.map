@@ -19718,7 +19718,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "640 192 160"
 "targetname" "blueFireSpeaker3"
 "spawnflags" "4"
@@ -19765,7 +19765,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "640 -384 160"
 "targetname" "blueFireSpeaker1"
 "spawnflags" "4"
@@ -19836,7 +19836,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "blueFireSpeaker2"
 "origin" "640 -192 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -19878,7 +19878,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "640 384 160"
 "targetname" "blueFireSpeaker4"
 "spawnflags" "4"
@@ -20013,7 +20013,7 @@ atcshd/cubelight_32_blue_s_15k
 {
 "classname" "target_speaker"
 "spawnflags" "4"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "-704 -192 160"
 "targetname" "redFireSpeaker3"
 }
@@ -20046,7 +20046,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "redFireSpeaker4"
 "origin" "-704 -384 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -20098,7 +20098,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "redFireSpeaker2"
 "origin" "-704 200 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -20134,7 +20134,7 @@ atcshd/cubelight_32_blue_s_15k
 {
 "classname" "target_speaker"
 "spawnflags" "4"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "-704 384 160"
 "targetname" "redFireSpeaker1"
 }
@@ -23999,7 +23999,7 @@ atcshd/cubelight_32_blue_s_15k
 "classname" "func_rotating"
 "speed" "-300"
 "spawnflags" "8"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 // brush 0
 {
 ( 1666 552 120 ) ( 1662 552 120 ) ( 1666 552 123 ) atcshd/ing1_base01a 192 64 0 0.25 0.25 134217728 0 0
@@ -24135,7 +24135,7 @@ atcshd/ing1_base01a
 "classname" "func_rotating"
 "speed" "-300"
 "spawnflags" "8"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 // brush 0
 {
 ( 1858 552 120 ) ( 1854 552 120 ) ( 1858 552 123 ) atcshd/ing1_base01a 192 64 0 0.25 0.25 134217728 0 0
@@ -24271,7 +24271,7 @@ atcshd/ing1_base01a
 "classname" "func_rotating"
 "speed" "-300"
 "spawnflags" "8"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 // brush 0
 {
 ( -1918 552 120 ) ( -1922 552 120 ) ( -1918 552 123 ) atcshd/ing1_base01a 192 64 0 0.25 0.25 134217728 0 0
@@ -24407,7 +24407,7 @@ atcshd/ing1_base01a
 "classname" "func_rotating"
 "speed" "-300"
 "spawnflags" "8"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 // brush 0
 {
 ( -1726 552 120 ) ( -1730 552 120 ) ( -1726 552 123 ) atcshd/ing1_base01a 192 64 0 0.25 0.25 134217728 0 0
@@ -26053,7 +26053,7 @@ atcshd/eq2_bmtl_01
 {
 "classname" "target_speaker"
 "origin" "-16.000000 -960.000000 -224.000000"
-"noise" "sound/atcshd/ing_noiseloop02.wav"
+"noise" "sound/atcshd/ing_noiseloop02"
 "angle" "-90.000000"
 "spawnflags" "1"
 }

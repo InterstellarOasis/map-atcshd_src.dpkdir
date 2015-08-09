@@ -30,7 +30,7 @@
 "spawnflags" "4"
 "targetname" "blueFireSpeaker3"
 "origin" "640 192 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "classname" "target_speaker"
 }
 {
@@ -71,7 +71,7 @@
 "spawnflags" "4"
 "targetname" "blueFireSpeaker1"
 "origin" "640 -384 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "classname" "target_speaker"
 }
 {
@@ -127,7 +127,7 @@
 "classname" "target_delay"
 }
 {
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "640 -192 160"
 "targetname" "blueFireSpeaker2"
 "spawnflags" "4"
@@ -169,7 +169,7 @@
 "spawnflags" "4"
 "targetname" "blueFireSpeaker4"
 "origin" "640 384 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "classname" "target_speaker"
 }
 {
@@ -285,7 +285,7 @@
 {
 "targetname" "redFireSpeaker3"
 "origin" "-704 -192 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "spawnflags" "4"
 "classname" "target_speaker"
 }
@@ -310,7 +310,7 @@
 "classname" "target_delay"
 }
 {
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "-704 -384 160"
 "targetname" "redFireSpeaker4"
 "spawnflags" "4"
@@ -355,7 +355,7 @@
 "classname" "target_relay"
 }
 {
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "origin" "-704 200 160"
 "targetname" "redFireSpeaker2"
 "spawnflags" "4"
@@ -390,7 +390,7 @@
 {
 "targetname" "redFireSpeaker1"
 "origin" "-704 384 160"
-"noise" "sound/atcshd/firework.wav"
+"noise" "sound/atcshd/firework"
 "spawnflags" "4"
 "classname" "target_speaker"
 }
@@ -671,7 +671,7 @@
 {
 "model" "*9"
 "origin" "1664.000000 552.000000 128.000000"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 "spawnflags" "8"
 "speed" "-300"
 "classname" "func_rotating"
@@ -679,7 +679,7 @@
 {
 "model" "*10"
 "origin" "1856.000000 552.000000 128.000000"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 "spawnflags" "8"
 "speed" "-300"
 "classname" "func_rotating"
@@ -687,7 +687,7 @@
 {
 "model" "*11"
 "origin" "-1920.000000 552.000000 128.000000"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 "spawnflags" "8"
 "speed" "-300"
 "classname" "func_rotating"
@@ -695,7 +695,7 @@
 {
 "model" "*12"
 "origin" "-1728.000000 552.000000 128.000000"
-"noise" "sound/atcshd/ing_fan02.wav"
+"noise" "sound/atcshd/ing_fan02"
 "spawnflags" "8"
 "speed" "-300"
 "classname" "func_rotating"
@@ -709,7 +709,7 @@
 {
 "spawnflags" "1"
 "angle" "-90.000000"
-"noise" "sound/atcshd/ing_noiseloop02.wav"
+"noise" "sound/atcshd/ing_noiseloop02"
 "origin" "-16.000000 -960.000000 -224.000000"
 "classname" "target_speaker"
 }
