@@ -50,18 +50,18 @@ textures/atcshd/burst_blue_s
 
 textures/atcshd/force_field_s
 	{
-        qer_editorimage textures/atcshd/force_grid
+        qer_editorimage textures/atcs/force_grid
 	surfaceparm trans	
         surfaceparm nomarks	
 	surfaceparm nolightmap
 	cull none
 	{
-		map textures/atcshd/force_field
+		map textures/atcs/force_field
 		tcMod Scroll .1 0
 		blendFunc add
 	}
 	{
-		map textures/atcshd/force_grid
+		map textures/atcs/force_grid
 		tcMod Scroll -.01 0
 		blendFunc add
 		rgbgen wave sin .2 .2 0 .4
@@ -124,8 +124,8 @@ textures/atcshd/cubelight_32_blue_invis_s_15k
 	surfaceparm nomarks
 	surfaceparm noimpact
 	q3map_surfacelight 15000
-	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
-	qer_editorimage textures/atcshd/cubelight_32_blue.blend
+	q3map_lightimage textures/niveus/cubelight_32_blue.blend
+	qer_editorimage textures/niveus/cubelight_32_blue.blend
 }
 
 textures/atcshd/cubelight_32_red_invis_s_15k
@@ -137,27 +137,27 @@ textures/atcshd/cubelight_32_red_invis_s_15k
 	surfaceparm nomarks
 	surfaceparm noimpact
 	q3map_surfacelight 15000
-	q3map_lightimage textures/atcshd/cubelight_32_red.blend
-	qer_editorimage textures/atcshd/cubelight_32_red.blend
+	q3map_lightimage textures/atcs/cubelight_32_red.blend
+	qer_editorimage textures/atcs/cubelight_32_red.blend
 }
 
 textures/atcshd/cubelight_32_white_s_20k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 20000
-	q3map_lightimage textures/atcshd/cubelight_32_white.blend
-	qer_editorimage textures/atcshd/cubelight_32_white
+	q3map_lightimage textures/atcs/cubelight_32_white.blend
+	qer_editorimage textures/atcs/cubelight_32_white
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_white
+		map textures/atcs/cubelight_32_white
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_white.blend
+		map textures/atcs/cubelight_32_white.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -166,19 +166,19 @@ textures/atcshd/cubelight_32_blue_s_20k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 20000
-	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
-	qer_editorimage textures/atcshd/cubelight_32_blue
+	q3map_lightimage textures/niveus/cubelight_32_blue.blend
+	qer_editorimage textures/niveus/cubelight_32_blue
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue
+		map textures/niveus/cubelight_32_blue
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue.blend
+		map textures/niveus/cubelight_32_blue.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -187,19 +187,19 @@ textures/atcshd/cubelight_32_blue_s_15k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 15000
-	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
-	qer_editorimage textures/atcshd/cubelight_32_blue
+	q3map_lightimage textures/niveus/cubelight_32_blue.blend
+	qer_editorimage textures/niveus/cubelight_32_blue
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue
+		map textures/niveus/cubelight_32_blue
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue.blend
+		map textures/niveus/cubelight_32_blue.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -208,19 +208,19 @@ textures/atcshd/cubelight_32_blue_s_10k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 10000
-	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
-	qer_editorimage textures/atcshd/cubelight_32_blue
+	q3map_lightimage textures/niveus/cubelight_32_blue.blend
+	qer_editorimage textures/niveus/cubelight_32_blue
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue
+		map textures/niveus/cubelight_32_blue
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_blue.blend
+		map textures/niveus/cubelight_32_blue.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -229,19 +229,19 @@ textures/atcshd/cubelight_32_red_s_20k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 20000
-	q3map_lightimage textures/atcshd/cubelight_32_red.blend
-	qer_editorimage textures/atcshd/cubelight_32_red
+	q3map_lightimage textures/atcs/cubelight_32_red.blend
+	qer_editorimage textures/atcs/cubelight_32_red
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red
+		map textures/atcs/cubelight_32_red
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red.blend
+		map textures/atcs/cubelight_32_red.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -250,19 +250,19 @@ textures/atcshd/cubelight_32_red_s_15k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 15000
-	q3map_lightimage textures/atcshd/cubelight_32_red.blend
-	qer_editorimage textures/atcshd/cubelight_32_red
+	q3map_lightimage textures/atcs/cubelight_32_red.blend
+	qer_editorimage textures/atcs/cubelight_32_red
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red
+		map textures/atcs/cubelight_32_red
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red.blend
+		map textures/atcs/cubelight_32_red.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
@@ -271,19 +271,19 @@ textures/atcshd/cubelight_32_red_s_10k
 {
 	surfaceparm nomarks
 	q3map_surfacelight 10000
-	q3map_lightimage textures/atcshd/cubelight_32_red.blend
-	qer_editorimage textures/atcshd/cubelight_32_red
+	q3map_lightimage textures/atcs/cubelight_32_red.blend
+	qer_editorimage textures/atcs/cubelight_32_red
 	{
 		map $lightmap
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red
+		map textures/atcs/cubelight_32_red
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/atcshd/cubelight_32_red.blend
+		map textures/atcs/cubelight_32_red.blend
 		blendfunc GL_ONE GL_ONE
 	}
 }
