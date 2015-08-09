@@ -8,418 +8,418 @@
 {
 "angles" "0 30 0"
 "origin" "-2240 -96 48"
-"classname" "info_alien_intermission"
+"classname" "pos_alien_intermission"
 }
 {
 "origin" "2176 -96 64"
 "angles" "0 150 0"
-"classname" "info_human_intermission"
+"classname" "pos_human_intermission"
 }
 {
 "origin" "720 -384 296"
 "angles" "0 150 0"
-"classname" "info_player_intermission"
+"classname" "pos_player_intermission"
 }
 {
 "origin" "640 128 160"
-"targetname" "blueFireStep3"
+"name" "blueFireStep3"
 "target" "blueFireSpeaker3"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "spawnflags" "4"
-"targetname" "blueFireSpeaker3"
+"name" "blueFireSpeaker3"
 "origin" "640 192 160"
 "noise" "sound/atcs/firework"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "target" "blueFireWorks"
 "origin" "192 0 160"
-"team" "2"
-"classname" "trigger_win"
+"group" "2"
+"classname" "sensor_end"
 }
 {
 "origin" "352 0 160"
-"targetname" "blueFireWorks"
+"name" "blueFireWorks"
 "target" "blueFire"
 "wait" "14"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "10"
 "target" "blueFire"
-"targetname" "blueFireWorks"
+"name" "blueFireWorks"
 "origin" "320 0 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "288 0 160"
-"targetname" "blueFireWorks"
+"name" "blueFireWorks"
 "target" "blueFire"
 "wait" "6"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "2"
 "target" "blueFire"
-"targetname" "blueFireWorks"
+"name" "blueFireWorks"
 "origin" "256 0 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "spawnflags" "4"
-"targetname" "blueFireSpeaker1"
+"name" "blueFireSpeaker1"
 "origin" "640 -384 160"
 "noise" "sound/atcs/firework"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "wait" ".25"
 "origin" "576 -320 160"
-"targetname" "blueFireStep1"
+"name" "blueFireStep1"
 "target" "blueSpray1"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "blueFireSpeaker1"
-"targetname" "blueFireStep1"
+"name" "blueFireStep1"
 "origin" "640 -320 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "512 -320 160"
-"targetname" "blueFireStep1"
+"name" "blueFireStep1"
 "target" "blueSpray1"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "wait" ".5"
 "target" "blueFireStep1"
-"targetname" "blueFire"
+"name" "blueFire"
 "origin" "576 -256 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "blueSpray2"
-"targetname" "blueFireStep2"
+"name" "blueFireStep2"
 "origin" "512 -128 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "640 -128 160"
-"targetname" "blueFireStep2"
+"name" "blueFireStep2"
 "target" "blueFireSpeaker2"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "target" "blueSpray2"
-"targetname" "blueFireStep2"
+"name" "blueFireStep2"
 "origin" "576 -128 160"
 "wait" ".25"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "576 -64 160"
-"targetname" "blueFire"
+"name" "blueFire"
 "target" "blueFireStep2"
 "wait" "1"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "noise" "sound/atcs/firework"
 "origin" "640 -192 160"
-"targetname" "blueFireSpeaker2"
+"name" "blueFireSpeaker2"
 "spawnflags" "4"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "wait" ".25"
 "origin" "576 128 160"
-"targetname" "blueFireStep3"
+"name" "blueFireStep3"
 "target" "blueSpray3"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "512 128 160"
-"targetname" "blueFireStep3"
+"name" "blueFireStep3"
 "target" "blueSpray3"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "1.5"
 "target" "blueFireStep3"
-"targetname" "blueFire"
+"name" "blueFire"
 "origin" "576 64 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "blueSpray4"
-"targetname" "blueFireStep4"
+"name" "blueFireStep4"
 "origin" "512 320 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "640 320 160"
-"targetname" "blueFireStep4"
+"name" "blueFireStep4"
 "target" "blueFireSpeaker4"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "spawnflags" "4"
-"targetname" "blueFireSpeaker4"
+"name" "blueFireSpeaker4"
 "origin" "640 384 160"
 "noise" "sound/atcs/firework"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "target" "blueSpray4"
-"targetname" "blueFireStep4"
+"name" "blueFireStep4"
 "origin" "576 320 160"
 "wait" ".25"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "576 256 160"
-"targetname" "blueFire"
+"name" "blueFire"
 "target" "blueFireStep4"
 "wait" "2"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "288 -272 160"
 "psName" "atcshd/firework_blue"
-"targetname" "blueSpray1"
+"name" "blueSpray1"
 "spawnflags" "1"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "spawnflags" "1"
-"targetname" "blueSpray2"
+"name" "blueSpray2"
 "psName" "atcshd/firework_blue"
 "origin" "400 -160 160"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "origin" "288 272 160"
 "psName" "atcshd/firework_blue"
-"targetname" "blueSpray4"
+"name" "blueSpray4"
 "spawnflags" "1"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "spawnflags" "1"
-"targetname" "blueSpray3"
+"name" "blueSpray3"
 "psName" "atcshd/firework_blue"
 "origin" "400 160 160"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
-"team" "1"
+"group" "1"
 "origin" "-256 0 160"
 "target" "redFireWorks"
-"classname" "trigger_win"
+"classname" "sensor_end"
 }
 {
 "origin" "-320 0 160"
-"targetname" "redFireWorks"
+"name" "redFireWorks"
 "target" "redFire"
 "wait" "2"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "6"
 "target" "redFire"
-"targetname" "redFireWorks"
+"name" "redFireWorks"
 "origin" "-352 0 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-384 0 160"
-"targetname" "redFireWorks"
+"name" "redFireWorks"
 "target" "redFire"
 "wait" "10"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "14"
 "target" "redFire"
-"targetname" "redFireWorks"
+"name" "redFireWorks"
 "origin" "-416 0 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-464 -160 160"
 "psName" "atcshd/firework_red"
-"targetname" "redSpray3"
+"name" "redSpray3"
 "spawnflags" "1"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "spawnflags" "1"
-"targetname" "redSpray4"
+"name" "redSpray4"
 "psName" "atcshd/firework_red"
 "origin" "-352 -272 160"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "origin" "-640 -64 160"
-"targetname" "redFire"
+"name" "redFire"
 "target" "redFireStep3"
 "wait" "1.5"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "redSpray3"
-"targetname" "redFireStep3"
+"name" "redFireStep3"
 "origin" "-640 -128 160"
 "wait" ".25"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "redSpray3"
-"targetname" "redFireStep3"
+"name" "redFireStep3"
 "origin" "-576 -128 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
-"targetname" "redFireSpeaker3"
+"name" "redFireSpeaker3"
 "origin" "-704 -192 160"
 "noise" "sound/atcs/firework"
 "spawnflags" "4"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "origin" "-704 -128 160"
-"targetname" "redFireStep3"
+"name" "redFireStep3"
 "target" "redFireSpeaker3"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "2"
 "target" "redFireStep4"
-"targetname" "redFire"
+"name" "redFire"
 "origin" "-640 -256 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" ".25"
 "origin" "-640 -320 160"
-"targetname" "redFireStep4"
+"name" "redFireStep4"
 "target" "redSpray4"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "noise" "sound/atcs/firework"
 "origin" "-704 -384 160"
-"targetname" "redFireSpeaker4"
+"name" "redFireSpeaker4"
 "spawnflags" "4"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "target" "redFireSpeaker4"
-"targetname" "redFireStep4"
+"name" "redFireStep4"
 "origin" "-704 -320 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-576 -320 160"
-"targetname" "redFireStep4"
+"name" "redFireStep4"
 "target" "redSpray4"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-576 136 160"
-"targetname" "redFireStep2"
+"name" "redFireStep2"
 "target" "redSpray2"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "wait" ".25"
 "origin" "-640 136 160"
-"targetname" "redFireStep2"
+"name" "redFireStep2"
 "target" "redSpray2"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "wait" "1"
 "target" "redFireStep2"
-"targetname" "redFire"
+"name" "redFire"
 "origin" "-640 72 160"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "target" "redFireSpeaker2"
-"targetname" "redFireStep2"
+"name" "redFireStep2"
 "origin" "-704 136 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "noise" "sound/atcs/firework"
 "origin" "-704 200 160"
-"targetname" "redFireSpeaker2"
+"name" "redFireSpeaker2"
 "spawnflags" "4"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "origin" "-464 160 160"
 "psName" "atcshd/firework_red"
-"targetname" "redSpray2"
+"name" "redSpray2"
 "spawnflags" "1"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "target" "redSpray1"
-"targetname" "redFireStep1"
+"name" "redFireStep1"
 "origin" "-576 320 160"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
 "target" "redSpray1"
-"targetname" "redFireStep1"
+"name" "redFireStep1"
 "origin" "-640 320 160"
 "wait" ".25"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-704 320 160"
-"targetname" "redFireStep1"
+"name" "redFireStep1"
 "target" "redFireSpeaker1"
-"classname" "target_relay"
+"classname" "ctrl_relay"
 }
 {
-"targetname" "redFireSpeaker1"
+"name" "redFireSpeaker1"
 "origin" "-704 384 160"
 "noise" "sound/atcs/firework"
 "spawnflags" "4"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
-"targetname" "redSpray1"
+"name" "redSpray1"
 "psName" "atcshd/firework_red"
 "origin" "-352 272 160"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "origin" "-640 256 160"
-"targetname" "redFire"
+"name" "redFire"
 "target" "redFireStep1"
 "wait" ".5"
-"classname" "target_delay"
+"classname" "ctrl_relay"
 }
 {
 "origin" "-1896 -304 32"
-"angle" "270"
+"yaw" "270"
 "classname" "team_alien_acid_tube"
 }
 {
-"angle" "180"
+"yaw" "180"
 "origin" "-1904 -176 -112"
 "classname" "team_alien_acid_tube"
 }
 {
-"angle" "90"
+"yaw" "90"
 "origin" "-1904 176 -112"
 "classname" "team_alien_acid_tube"
 }
@@ -429,22 +429,22 @@
 }
 {
 "origin" "1616 200 32"
-"angle" "90"
+"yaw" "90"
 "classname" "team_human_armoury"
 }
 {
-"angle" "180"
+"yaw" "180"
 "origin" "1760 64 -88"
 "classname" "team_human_mgturret"
 }
 {
-"angle" "270"
+"yaw" "270"
 "origin" "1632 -256 48"
 "classname" "team_human_mgturret"
 }
 {
 "origin" "1760 -64 -88"
-"angle" "180"
+"yaw" "180"
 "classname" "team_human_mgturret"
 }
 {
@@ -453,85 +453,85 @@
 }
 {
 "origin" "-1712 -176 -112"
-"angle" "90"
+"yaw" "90"
 "classname" "team_alien_acid_tube"
 }
 {
 "origin" "-1712 176 -112"
-"angle" "180"
+"yaw" "180"
 "classname" "team_alien_acid_tube"
 }
 {
 "model" "*1"
 "dmg" "1"
 "spawnflags" "8"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*2"
 "spawnflags" "8"
 "dmg" "1"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*3"
 "spawnflags" "8"
 "dmg" "1"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*4"
 "spawnflags" "8"
 "dmg" "1"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*5"
 "dmg" "1"
 "spawnflags" "8"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*6"
 "spawnflags" "8"
 "dmg" "1"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*7"
 "dmg" "1"
 "spawnflags" "8"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "model" "*8"
 "dmg" "1"
 "spawnflags" "8"
-"classname" "trigger_hurt"
+"classname" "env_afx_hurt"
 }
 {
 "origin" "-1856 448 32"
-"angle" "225"
+"yaw" "225"
 "classname" "team_alien_spawn"
 }
 {
 "origin" "-1728 320 32"
-"angle" "225"
+"yaw" "225"
 "classname" "team_alien_spawn"
 }
 {
 "origin" "-1744 448 32"
-"angle" "45"
+"yaw" "45"
 "classname" "team_alien_overmind"
 }
 {
 "origin" "1792 448 24"
-"angle" "315"
+"yaw" "315"
 "classname" "team_human_spawn"
 }
 {
 "origin" "1664 320 24"
-"angle" "315"
+"yaw" "315"
 "classname" "team_human_spawn"
 }
 {
@@ -539,134 +539,134 @@
 "classname" "team_human_reactor"
 }
 {
-"angle" "140"
+"yaw" "140"
 "origin" "576 -384 320"
-"classname" "info_player_start"
+"classname" "pos_player_spawn"
 }
 {
-"angle" "0.000009"
+"yaw" "0.000009"
 "message" "^4Blue Base"
 "origin" "1792.000000 0.000000 48.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^4Blue Front Entrance"
 "origin" "1072.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^4Blue Side Entrance"
 "origin" "1568.000000 -544.000000 128.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
 "message" "^4Tunnel Blue Side"
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "origin" "992.000000 -864.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
 "message" "^1Tunnel Red Side"
-"angle" "0.000009"
+"yaw" "0.000009"
 "origin" "-1056.000000 -864.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
 "message" "^1Red Side Entrance"
 "origin" "-1632.000000 -544.000000 128.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^1Red Base"
 "origin" "-1856.000000 0.000000 48.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^3Outside Red Base"
 "origin" "-640.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-90.000000"
+"yaw" "-90.000000"
 "message" "^3Sky"
 "origin" "-32.000000 0.000000 640.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-90.000000"
+"yaw" "-90.000000"
 "message" "^3Bunker Top"
 "origin" "-32.000000 0.000000 208.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "0.000016"
+"yaw" "0.000016"
 "message" "^3Bunker"
 "origin" "80.000000 -80.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "0.000009"
+"yaw" "0.000009"
 "message" "^1Red Front Entrance"
 "origin" "-1136.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "0.000003"
+"yaw" "0.000003"
 "message" "^3Outside Blue Base"
 "origin" "576.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-89.999992"
+"yaw" "-89.999992"
 "message" "^3Outside Bunker"
 "origin" "-32.000000 512.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^3Bunker"
 "origin" "-144.000000 -80.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "179.999985"
+"yaw" "179.999985"
 "message" "^3Sky"
 "origin" "576.000000 0.000000 640.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "0.000003"
+"yaw" "0.000003"
 "message" "^3Sky"
 "origin" "-640.000000 0.000000 640.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^3Outside Stairs"
 "origin" "-32.000000 -512.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "-179.999985"
+"yaw" "-179.999985"
 "message" "^1Red Front Entrance"
 "origin" "-1296.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "0.000009"
+"yaw" "0.000009"
 "message" "^4Blue Front Entrance"
 "origin" "1232.000000 0.000000 -64.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
 "message" "^3Tunnel Midway"
-"angle" "90.000000"
+"yaw" "90.000000"
 "origin" "-32.000000 -1120.000000 -128.000000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
 "model" "*9"
@@ -702,14 +702,14 @@
 }
 {
 "psName" "atcshd/steam"
-"angle" "-90.000000"
+"yaw" "-90.000000"
 "origin" "-16.000000 -960.000000 -224.000000"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
 "spawnflags" "1"
-"angle" "-90.000000"
+"yaw" "-90.000000"
 "noise" "sound/atcshd/ing_noiseloop02"
 "origin" "-16.000000 -960.000000 -224.000000"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
