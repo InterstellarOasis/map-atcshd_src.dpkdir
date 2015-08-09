@@ -7,6 +7,39 @@ Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/
 
 This port is an Interstellar Oasis initiative: [https://github.com/interstellar-oasis/interstellar-oasis](https://github.com/interstellar-oasis/interstellar-oasis).
 
+How-to
+------
+
+* Get the source
+
+```
+git clone https://github.com/interstellar-oasis/map-atcshd.git map-atcshd_source.pk3dir
+cd map-atcshd_source.pk3dir/
+```
+
+* Build
+
+You need the [grtoolbox](https://github.com/illwieckz/grtoolbox).  
+You will find the pk3dir in `build/test`.
+
+```
+make
+```
+
+* Package
+
+You will find the pk3 in `build/pkg`.
+
+```
+make pk3
+```
+
+Run the map:
+
+```
+daemon -pakpath /where/you/installed/unvanquished/pkg -pakpath build/pkg +devmap atcshd
+```
+
 Credits
 -------
 
