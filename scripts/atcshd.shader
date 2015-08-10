@@ -51,8 +51,8 @@ textures/atcshd/burst_blue_s
 textures/atcshd/force_field_s
 	{
         qer_editorimage textures/atcs/force_grid
-	surfaceparm trans	
-        surfaceparm nomarks	
+	surfaceparm trans
+        surfaceparm nomarks
 	surfaceparm nolightmap
 	cull none
 	{
@@ -88,7 +88,7 @@ textures/atcshd/bulb_red_s
 textures/atcshd/eq2_bounce
 {
 	qer_editorimage textures/atcshd/eq2_bounce
-	
+
 	{
 		map textures/atcshd/eq2_bounce
 		rgbGen identity

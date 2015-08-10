@@ -8,9 +8,9 @@ atcshd/firework_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		700
 		velocity			0 0 1 ~10
 
@@ -34,9 +34,9 @@ atcshd/firework_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		750
 		velocity			0 0 1 ~10
 
@@ -60,9 +60,9 @@ atcshd/firework_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		600
 		velocity			0 0 1 ~10
 
@@ -86,9 +86,9 @@ atcshd/firework_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		650
 		velocity			0 0 1 ~10
 
@@ -123,9 +123,9 @@ atcshd/firework_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		700
 		velocity			0 0 1 ~10
 
@@ -149,9 +149,9 @@ atcshd/firework_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		750
 		velocity			0 0 1 ~10
 
@@ -175,9 +175,9 @@ atcshd/firework_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		600
 		velocity			0 0 1 ~10
 
@@ -201,9 +201,9 @@ atcshd/firework_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
-	
+
 		velocityDir			linear
-	
+
 		velocityMagnitude		650
 		velocity			0 0 1 ~10
 
