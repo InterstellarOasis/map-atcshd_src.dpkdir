@@ -4,7 +4,7 @@
 "_lightmapscale" "0.25"
 "message" "Advanced Tremulous Combat Simulator"
 "classname" "worldspawn"
-"colorGrade" "gfx/atcshd/colorgrading"
+"gradingTexture" "gfx/atcshd/colorgrading"
 }
 {
 "angles" "0 30 0"
