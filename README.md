@@ -1,7 +1,7 @@
 Advanced Tremulous Combat Simulator
 -----------------------------------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features a symmetrical combat simulation to train new recruits in fighting the alien menace.
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
@@ -70,8 +70,9 @@ Sound effects:
 
 Special thanks:
 
-* Asa “Norfenstein” Kravets
 * Tim “Timbo” Angus <tim@ngus.net>
+* Asa “Norfenstein” Kravets
+* Dan “kharnov” Floda
 * lakitu7
 * ravyn
 * Who-[Soup]
@@ -91,8 +92,9 @@ http://creativecommons.org/licenses/by-sa/2.0/
 History
 -------
 
-* 2011-05-24:	Advanced Tremulous Combat Simulator gpp2 release
-* 2010-12-16:	Advanced Tremulous Combat Simulator gpp1 release
+* 2015-08-16:	Advanced Tremulous Combat Simulator 1.2 (Unvanquished community map)
+* 2011-05-24:	Advanced Tremulous Combat Simulator 1.2 gpp2
+* 2010-12-16:	Advanced Tremulous Combat Simulator 1.2 gpp1
 * 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
 * 2006-03-31:	Tremulous 1.1.0 (Standalone)
-* 2005-08-11:	Advanced Tactical Combat Simulator map release
+* 2005-08-11:	Advanced Tactical Combat Simulator
