@@ -1,7 +1,7 @@
 Advanced Tremulous Combat Simulator
 -----------------------------------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features a symmetrical combat simulation to train new recruits in fighting the alien menace.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features a symetrical combat simulation to train new recruits in fighting the alien menace.
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
