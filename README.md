@@ -5,7 +5,7 @@ This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Un
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
-This port is an Interstellar Oasis initiative: [https://github.com/interstellar-oasis/interstellar-oasis](https://github.com/interstellar-oasis/interstellar-oasis).
+This port is an Interstellar Oasis initiative: [https://github.com/InterstellarOasis/InterstellarOasis](https://github.com/InterstellarOasis/InterstellarOasis).
 
 Levelshot
 ---------
@@ -18,31 +18,31 @@ How-to
 * Get the source
 
 ```
-git clone https://github.com/interstellar-oasis/map-atcshd.git map-atcshd_source.pk3dir
-cd map-atcshd_source.pk3dir/
+git clone https://github.com/InterstellarOasis/map-atcshd_src.dpkdir.git
+cd map-atcshd_src.dpkdir/
 ```
 
 * Build
 
-You need the [grtoolbox](https://github.com/illwieckz/grtoolbox).  
-You will find the pk3dir in `build/test`.
+You need the [Urcheon](https://github.com/illwieckz/Urcheon) tool.  
+You will find the dpkdir in `build/test`.
 
 ```
-make
+urcheon build
 ```
 
 * Package
 
-You will find the pk3 in `build/pkg`.
+You will find the dpk in `build/pkg`.
 
 ```
-make pk3
+urcheon package
 ```
 
 Run the map:
 
 ```
-daemon -pakpath /where/you/installed/unvanquished/pkg -pakpath build/pkg +devmap atcshd
+daemon -pakpath build/pkg +devmap atcshd
 ```
 
 Credits
