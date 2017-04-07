@@ -1,0 +1,2 @@
+keep maps/atcshd.map
+ignore meta/atcshd/atcshd_web.jpg
