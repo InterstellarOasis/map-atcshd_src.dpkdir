@@ -1045,7 +1045,7 @@
 // brush 0
 {
 ( 696 576 -144 ) ( -456 576 -144 ) ( -448 320 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( -456 576 -128 ) ( 696 576 -128 ) ( 384 320 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( -456 576 -128 ) ( 696 576 -128 ) ( 384 320 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( -512 320 -128 ) ( 584 320 -128 ) ( 584 320 -136 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 640 576 -128 ) ( 640 576 -144 ) ( 384 320 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -704 576 -128 ) ( -704 576 -144 ) ( 640 576 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
@@ -17962,7 +17962,7 @@ atcshd/atcshd-pipe
 ( 640 576 -128 ) ( 640 576 -144 ) ( 704 512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 704 512 -128 ) ( 704 512 -144 ) ( 448 256 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 384 320 -144 ) ( 384 320 -128 ) ( 448 256 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( -392 512 -128 ) ( 760 512 -128 ) ( 448 256 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( -392 512 -128 ) ( 760 512 -128 ) ( 448 256 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( 760 512 -144 ) ( -392 512 -144 ) ( -384 256 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 384 320 -128 ) ( 384 320 -144 ) ( 640 576 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 }
@@ -17980,7 +17980,7 @@ atcshd/atcshd-pipe
 ( 640 -576 -144 ) ( -704 -576 -144 ) ( -704 -576 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 384 -320 -144 ) ( 640 -576 -144 ) ( 640 -576 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 584 -320 -136 ) ( 584 -320 -128 ) ( -512 -320 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( 384 -320 -128 ) ( 696 -576 -128 ) ( -456 -576 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( 384 -320 -128 ) ( 696 -576 -128 ) ( -456 -576 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( -448 -320 -144 ) ( -456 -576 -144 ) ( 696 -576 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 }
 // brush 0
@@ -18014,7 +18014,7 @@ atcshd/atcshd-pipe
 {
 ( 640 -576 -144 ) ( 384 -320 -144 ) ( 384 -320 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -384 -256 -144 ) ( -392 -512 -144 ) ( 760 -512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( 448 -256 -128 ) ( 760 -512 -128 ) ( -392 -512 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( 448 -256 -128 ) ( 760 -512 -128 ) ( -392 -512 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( 448 -256 -128 ) ( 384 -320 -128 ) ( 384 -320 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 448 -256 -144 ) ( 704 -512 -144 ) ( 704 -512 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 704 -512 -144 ) ( 640 -576 -144 ) ( 640 -576 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
@@ -18067,7 +18067,7 @@ atcshd/atcshd-pipe
 {
 ( -704 576 -144 ) ( -448 320 -144 ) ( -448 320 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 320 256 -144 ) ( 328 512 -144 ) ( -824 512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( -512 256 -128 ) ( -824 512 -128 ) ( 328 512 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( -512 256 -128 ) ( -824 512 -128 ) ( 328 512 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( -512 256 -128 ) ( -448 320 -128 ) ( -448 320 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -512 256 -144 ) ( -768 512 -144 ) ( -768 512 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -768 512 -144 ) ( -704 576 -144 ) ( -704 576 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
@@ -18112,7 +18112,7 @@ atcshd/atcshd-pipe
 ( -704 -576 -128 ) ( -704 -576 -144 ) ( -768 -512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -768 -512 -128 ) ( -768 -512 -144 ) ( -512 -256 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -448 -320 -144 ) ( -448 -320 -128 ) ( -512 -256 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( 328 -512 -128 ) ( -824 -512 -128 ) ( -512 -256 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( 328 -512 -128 ) ( -824 -512 -128 ) ( -512 -256 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( -824 -512 -144 ) ( 328 -512 -144 ) ( 320 -256 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -448 -320 -128 ) ( -448 -320 -144 ) ( -704 -576 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 }
@@ -18129,7 +18129,7 @@ atcshd/atcshd-pipe
 ( -768 -512 -144 ) ( -768 -512 -128 ) ( -512 -256 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -768 128 -144 ) ( -768 512 -144 ) ( -768 512 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 704 144 -144 ) ( -392 144 -144 ) ( -392 -448 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( -392 -448 -128 ) ( -392 144 -128 ) ( 704 144 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( -392 -448 -128 ) ( -392 144 -128 ) ( 704 144 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( -512 128 -128 ) ( -512 256 -128 ) ( -512 256 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( -512 256 -128 ) ( -768 512 -128 ) ( -768 512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 }
@@ -18138,7 +18138,7 @@ atcshd/atcshd-pipe
 ( 448 -256 -128 ) ( 704 -512 -128 ) ( 704 -512 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 704 512 -144 ) ( 704 512 -128 ) ( 448 256 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 448 256 -144 ) ( 448 256 -128 ) ( 448 128 -128 ) common/caulk 0 0 0 0.5 0.5 0 4 0
-( -768 144 -128 ) ( 328 144 -128 ) ( 328 -448 -128 ) niveus/kt_512_rough1-2 0 0 0 0.5 0.5 0 0 0
+( -768 144 -128 ) ( 328 144 -128 ) ( 328 -448 -128 ) atcshd/rockground 0 0 0 0.5 0.5 0 0 0
 ( 328 -448 -144 ) ( 328 144 -144 ) ( -768 144 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 ( 704 512 -128 ) ( 704 512 -144 ) ( 704 128 -144 ) common/caulk 0 0 0 0.5 0.5 0 4 0
 }
@@ -19719,7 +19719,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "640 192 160"
 "targetname" "blueFireSpeaker3"
 "spawnflags" "4"
@@ -19766,7 +19766,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "640 -384 160"
 "targetname" "blueFireSpeaker1"
 "spawnflags" "4"
@@ -19837,7 +19837,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "blueFireSpeaker2"
 "origin" "640 -192 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -19879,7 +19879,7 @@ atcshd/cubelight_32_blue_s_15k
 // entity 0
 {
 "classname" "target_speaker"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "640 384 160"
 "targetname" "blueFireSpeaker4"
 "spawnflags" "4"
@@ -20014,7 +20014,7 @@ atcshd/cubelight_32_blue_s_15k
 {
 "classname" "target_speaker"
 "spawnflags" "4"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "-704 -192 160"
 "targetname" "redFireSpeaker3"
 }
@@ -20047,7 +20047,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "redFireSpeaker4"
 "origin" "-704 -384 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -20099,7 +20099,7 @@ atcshd/cubelight_32_blue_s_15k
 "spawnflags" "4"
 "targetname" "redFireSpeaker2"
 "origin" "-704 200 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 }
 // entity 0
 {
@@ -20135,7 +20135,7 @@ atcshd/cubelight_32_blue_s_15k
 {
 "classname" "target_speaker"
 "spawnflags" "4"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "-704 384 160"
 "targetname" "redFireSpeaker1"
 }

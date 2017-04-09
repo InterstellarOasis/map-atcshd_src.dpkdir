@@ -31,7 +31,7 @@
 "spawnflags" "4"
 "name" "blueFireSpeaker3"
 "origin" "640 192 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "classname" "sfx_speaker"
 }
 {
@@ -72,7 +72,7 @@
 "spawnflags" "4"
 "name" "blueFireSpeaker1"
 "origin" "640 -384 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "classname" "sfx_speaker"
 }
 {
@@ -128,7 +128,7 @@
 "classname" "ctrl_relay"
 }
 {
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "640 -192 160"
 "name" "blueFireSpeaker2"
 "spawnflags" "4"
@@ -170,7 +170,7 @@
 "spawnflags" "4"
 "name" "blueFireSpeaker4"
 "origin" "640 384 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "classname" "sfx_speaker"
 }
 {
@@ -286,7 +286,7 @@
 {
 "name" "redFireSpeaker3"
 "origin" "-704 -192 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "spawnflags" "4"
 "classname" "sfx_speaker"
 }
@@ -311,7 +311,7 @@
 "classname" "ctrl_relay"
 }
 {
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "-704 -384 160"
 "name" "redFireSpeaker4"
 "spawnflags" "4"
@@ -356,7 +356,7 @@
 "classname" "ctrl_relay"
 }
 {
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "origin" "-704 200 160"
 "name" "redFireSpeaker2"
 "spawnflags" "4"
@@ -391,7 +391,7 @@
 {
 "name" "redFireSpeaker1"
 "origin" "-704 384 160"
-"noise" "sound/atcs/firework"
+"noise" "sound/atcshd/firework"
 "spawnflags" "4"
 "classname" "sfx_speaker"
 }
