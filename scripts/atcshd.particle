@@ -4,7 +4,7 @@ atcshd/firework_red
 	{
 		particle
 		{
-		shader sync textures/atcshd/burst_red_s
+		shader sync textures/atcshd/burst_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -30,7 +30,7 @@ atcshd/firework_red
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_red_s
+		shader sync textures/atcshd/burst_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -56,7 +56,7 @@ atcshd/firework_red
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_red_s
+		shader sync textures/atcshd/burst_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -82,7 +82,7 @@ atcshd/firework_red
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_red_s
+		shader sync textures/atcshd/burst_red
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -119,7 +119,7 @@ atcshd/firework_blue
 	{
 		particle
 		{
-		shader sync textures/atcshd/burst_blue_s
+		shader sync textures/atcshd/burst_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -145,7 +145,7 @@ atcshd/firework_blue
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_blue_s
+		shader sync textures/atcshd/burst_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -171,7 +171,7 @@ atcshd/firework_blue
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_blue_s
+		shader sync textures/atcshd/burst_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -197,7 +197,7 @@ atcshd/firework_blue
 		}
 		particle
 		{
-		shader sync textures/atcshd/burst_blue_s
+		shader sync textures/atcshd/burst_blue
 		displacement 0 0 0 ~5
 
 		velocityType		static
@@ -235,7 +235,7 @@ atcshd/steam
   {
     particle
     {
-      shader sync textures/atcshd/steam_s
+      shader sync textures/atcshd/steam
       displacement 0 -8 0 0
 
       velocityType		static
