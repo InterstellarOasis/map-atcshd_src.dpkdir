@@ -26,7 +26,7 @@ textures/atcshd/black
 	}
 }
 
-textures/atcshd/burst_red_s
+textures/atcshd/burst_red
 {
 	entityMergable
 	cull none
@@ -37,7 +37,7 @@ textures/atcshd/burst_red_s
 	}
 }
 
-textures/atcshd/burst_blue_s
+textures/atcshd/burst_blue
 {
 	entityMergable
 	cull none
@@ -48,7 +48,7 @@ textures/atcshd/burst_blue_s
 	}
 }
 
-textures/atcshd/force_field_s
+textures/atcshd/force_field
 	{
 	qer_editorimage textures/atcshd/force_grid
 	surfaceparm trans
@@ -68,7 +68,7 @@ textures/atcshd/force_field_s
 	}
 }
 
-textures/atcshd/bulb_red_s
+textures/atcshd/bulb_red
 {
 	qer_editorimage textures/atcshd/bulb_red
 	surfaceparm nomarks
@@ -456,7 +456,7 @@ textures/atcshd/eq2lt_bmtl03light_1000
 	}
 }
 
-textures/atcshd/fog_s
+textures/atcshd/fog
 {
 	qer_editorimage textures/atcshd/fog_radiant
 	surfaceparm	trans
@@ -469,7 +469,7 @@ textures/atcshd/fog_s
 }
 
 // from karith, by jex
-textures/atcshd/steam_s
+textures/atcshd/steam
 {
 	entityMergable
 	cull none
