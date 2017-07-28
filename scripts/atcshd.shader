@@ -7,6 +7,8 @@ textures/atcshd/sky
       surfaceparm sky
 // -- surface sky light
       q3map_skylight 225 3
+// -- soften sky light casted shadows, workaround wrong shadows
+      q3map_lightmapFilterRadius 0 20
       q3map_lightimage env/atcshd/wasteland
 // -- direct sunlight
 //    q3map_sunExt <red> <green> <blue> <intensity> <degrees> <elevation> <deviance> <samples>
