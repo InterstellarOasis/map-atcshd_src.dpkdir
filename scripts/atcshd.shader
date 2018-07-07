@@ -460,7 +460,7 @@ textures/atcshd/eq2lt_bmtl03light_1000
 
 textures/atcshd/fog
 {
-	qer_editorimage textures/atcshd/fog_radiant
+	qer_editorimage textures/atcshd/fog_p
 	surfaceparm	trans
 	surfaceparm	nonsolid
 	surfaceparm	fog
