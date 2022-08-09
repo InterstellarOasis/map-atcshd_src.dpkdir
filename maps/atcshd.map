@@ -1,7 +1,7 @@
 {
 "classname" "worldspawn"
 "message" "Advanced Tremulous Combat Simulator"
-"_lightmapscale" "0.25"
+"_lightmapscale" "0.4"
 "gradingTexture" "gfx/atcshd/colorgrading"
 {
 ( -256 -608 -128 ) ( -256 -544 -128 ) ( -256 -576 0 ) atcshd/eq2_bmtl 0 0 0 0.25 0.25 134217728 0 0
