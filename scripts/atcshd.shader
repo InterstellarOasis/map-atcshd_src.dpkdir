@@ -1,20 +1,20 @@
 textures/atcshd/sky
 {
-//    skybox "Wasteland" by Ingar
-      qer_editorimage env/atcshd/wasteland
-      surfaceparm noimpact
-      surfaceparm nolightmap
-      surfaceparm sky
-// -- surface sky light
-      q3map_skylight 225 3
-// -- soften sky light casted shadows, workaround wrong shadows
-      q3map_lightmapFilterRadius 0 20
-      q3map_lightimage env/atcshd/wasteland
-// -- direct sunlight
-//    q3map_sunExt <red> <green> <blue> <intensity> <degrees> <elevation> <deviance> <samples>
-//      q3map_sunExt 1.00 0.949 0.977 125 245 40 2 16
-      q3map_sunExt 1.00 1.00 1.00 160 245 40 2 16
-      skyparms env/atcshd/wasteland - -
+// skybox "Wasteland" by Ingar
+	qer_editorimage env/atcshd/wasteland
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	surfaceparm sky
+// surface sky light
+	q3map_skylight 225 3
+// soften sky light casted shadows, workaround wrong shadows
+	q3map_lightmapFilterRadius 0 20
+	q3map_lightimage env/atcshd/wasteland
+// direct sunlight
+//	q3map_sunExt <red> <green> <blue> <intensity> <degrees> <elevation> <deviance> <samples>
+//	q3map_sunExt 1.00 0.949 0.977 125 245 40 2 16
+	q3map_sunExt 1.00 1.00 1.00 160 245 40 2 16
+	skyparms env/atcshd/wasteland - -
 }
 
 // no lightmap, always black

@@ -1,20 +1,13 @@
 May 24, 2011
 =============================================================================
 
-Title                   : Advanced Tremulous Combat Simulator
+Title: Advanced Tremulous Combat Simulator
 
-Filename                : map-atcshd.pk3
+Authors: Nicolas "jex" Jansens (original), Superpie & Ingar (this release)
 
-Authors                 : Nicolas "jex" Jansens (original)
-                          Superpie & Ingar (this release)
+Description: Map for the open source game Tremulous
 
-Web Site(s)             : http://tremulous.net
-
-Description             : Map for the open source game Tremulous
-                          http://www.tremulous.net
-
-Credits to              : ID-Software for Quake III Arena,
-                          darklegion for Tremulous
+Thanks to: ID-Software for Quake III Arena, darklegion for Tremulous
 
 =============================================================================
 
@@ -42,9 +35,9 @@ TEXTURES
 		Yves "evil lair" Allaire
 		http://evillair.net
 
-                Simon "sock" o'Callaghan
+		Simon "sock" o'Callaghan
 		http://www.simonoc.com/
-                
+
 		Nicolas "jex" Jansens
 		jex@orodu.net
 

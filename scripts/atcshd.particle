@@ -4,114 +4,117 @@ atcshd/firework_red
 	{
 		particle
 		{
-		shader sync textures/atcshd/burst_red
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_red
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		700
-		velocity			0 0 1 ~10
+			velocityMagnitude 700
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			250 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 250 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1200
+			lifeTime 1200
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_red
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_red
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		750
-		velocity			0 0 1 ~10
+			velocityMagnitude 750
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			450 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 450 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1300
+			lifeTime 1300
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_red
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_red
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		600
-		velocity			0 0 1 ~10
+			velocityMagnitude 600
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			250 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 250 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1400
+			lifeTime 1400
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_red
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_red
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		650
-		velocity			0 0 1 ~10
+			velocityMagnitude 650
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			450 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 450 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1500
+			lifeTime 1500
 
-		overdrawProtection
+			overdrawProtection
 		}
-	count infinite
-	delay 0
-	period 1 - ~0%
+		
+		count infinite
+		delay 0
+		period 1 - ~0%
 	}
 }
-
 
 atcshd/firework_blue
 {
@@ -119,111 +122,115 @@ atcshd/firework_blue
 	{
 		particle
 		{
-		shader sync textures/atcshd/burst_blue
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_blue
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		700
-		velocity			0 0 1 ~10
+			velocityMagnitude 700
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			250 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 250 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1200
+			lifeTime 1200
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_blue
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_blue
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		750
-		velocity			0 0 1 ~10
+			velocityMagnitude 750
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			450 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 450 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1300
+			lifeTime 1300
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_blue
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_blue
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		600
-		velocity			0 0 1 ~10
+			velocityMagnitude 600
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			250 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 250 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1400
+			lifeTime 1400
 
-		overdrawProtection
+			overdrawProtection
 		}
+
 		particle
 		{
-		shader sync textures/atcshd/burst_blue
-		displacement 0 0 0 ~5
+			shader sync textures/atcshd/burst_blue
+			displacement 0 0 0 ~5
 
-		velocityType		static
+			velocityType static
 
-		velocityDir			linear
+			velocityDir linear
 
-		velocityMagnitude		650
-		velocity			0 0 1 ~10
+			velocityMagnitude 650
+			velocity 0 0 1 ~10
 
-		accelerationType		static
-		accelerationDir		linear
-		acceleration		0 0 -1 ~35
-		accelerationMagnitude	500
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 -1 ~35
+			accelerationMagnitude 500
 
-		radius		100 2 22
-		alpha			450 0 1
-		rotation		0 ~360 ~360
-		bounce		0.0
+			radius 100 2 22
+			alpha 450 0 1
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-		lifeTime 1500
+			lifeTime 1500
 
-		overdrawProtection
+			overdrawProtection
 		}
-	count infinite
-	delay 0
-	period 1 - ~0%
+
+		count infinite
+		delay 0
+		period 1 - ~0%
 	}
 }
 
@@ -231,33 +238,33 @@ atcshd/firework_blue
 // steam by jex - edited by godmil
 atcshd/steam
 {
-  ejector
-  {
-    particle
-    {
-      shader sync textures/atcshd/steam
-      displacement 0 -8 0 0
+	ejector
+	{
+		particle
+		{
+			shader sync textures/atcshd/steam
+			displacement 0 -8 0 0
 
-      velocityType		static
-      velocityDir		linear
-      velocityMagnitude	150
-      velocity		0 -1 0 ~20
+			velocityType static
+			velocityDir linear
+			velocityMagnitude 150
+			velocity 0 -1 0 ~20
 
-      accelerationType	static
-      accelerationDir		linear
-      acceleration		0 0 1 ~5
-      accelerationMagnitude	25
+			accelerationType static
+			accelerationDir linear
+			acceleration 0 0 1 ~5
+			accelerationMagnitude 25
 
-      radius		0 5 50
-      alpha		250 .5 0
-      rotation	0 ~360 ~360
-      bounce		0.0
+			radius 0 5 50
+			alpha 250 .5 0
+			rotation 0 ~360 ~360
+			bounce 0.0
 
-      lifeTime 1000
-    }
+			lifeTime 1000
+		}
 
-    count infinite
-    delay 0
-    period 45 - ~0%
-  }
+		count infinite
+		delay 0
+		period 45 - ~0%
+	}
 }
