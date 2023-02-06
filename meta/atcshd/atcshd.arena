@@ -1,5 +1,8 @@
 {
-	map			"atcshd"
-	longname	"Advanced Tremulous Combat Simulator"
-	type		"tremulous"
+	map "atcshd"
+	longname "Advanced Tremulous Combat Simulator"
+	author "Jex"
+	author "SuperPie"
+	author "Ingar"
+	type "tremulous"
 }
