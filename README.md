@@ -10,7 +10,7 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/atcshd/atcshd_web.jpg)
+![Levelshot](meta/atcshd/atcshd.webp)
 
 How-to
 ------
