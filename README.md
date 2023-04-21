@@ -63,9 +63,11 @@ http://creativecommons.org/licenses/by-sa/2.0/
 
 ## History
 
-* 2015-08-16: Advanced Tremulous Combat Simulator 1.2 (Unvanquished community map)
-* 2011-05-24: Advanced Tremulous Combat Simulator 1.2 gpp2
-* 2010-12-16: Advanced Tremulous Combat Simulator 1.2 gpp1
-* 2009-12-04: Tremulous 1.2 Beta (Gameplay preview)
-* 2006-03-31: Tremulous 1.1.0 (Standalone)
-* 2005-08-11: Advanced Tactical Combat Simulator
+* `2023-04-21`: _Advanced Tremulous Combat Simulator_ `1.2.2` (Unvanquished community map dpk)
+* `2018-07-29`: _Advanced Tremulous Combat Simulator_ `1.2.1` (Unvanquished community map dpk)
+* `2015-08-16`: _Advanced Tremulous Combat Simulator_ `1.2` (Unvanquished community map pk3)
+* `2011-05-24`: _Advanced Tremulous Combat Simulator_ `1.2 gpp2` (Tremulous gameplay preview)
+* `2010-12-16`: _Advanced Tremulous Combat Simulator_ `1.2 gpp1` (Tremulous gameplay preview)
+* `2009-12-04`: _Advanced Tactical Combat Simulator_ `1.2 beta` (Tremulous gameplay preview)
+* `2006-03-31`: _Advanced Tactical Combat Simulator_ `1.1.0` (Tremulous standalone game)
+* `2005-08-11`: _Advanced Tactical Combat Simulator_ `1.0.0` (Quake Ⅲ Arena Tremulous mod)
