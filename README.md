@@ -33,6 +33,7 @@ Textures:
 
 * Georges "TRaK" Grondin <hidden email="drognin [ad] gmail.com"/> ([trak.mercenariesguild.net/node/3](https://web.archive.org/web/20131109224800/http://trak.mercenariesguild.net/node/3))
 * Stijn “Ingar“ Buys
+* Krzysztof "RedSky" Kozłowski
 * Superpie
 
 Sound effects:
@@ -53,6 +54,9 @@ Special thanks:
 
 Changes by Thomas Debesse fall under the Creative Commons Attribution 4.0 International License:  
 http://creativecommons.org/licenses/by/4.0/
+
+Changes by Krzysztof Kozłowski fall under the Creative Commons Attribution-ShareAlike 4.0 International License:
+https://creativecommons.org/licenses/by-sa/4.0/
 
 Assets by Tremulous contributors fall under the Creative Commons Attribution-ShareAlike 2.5 Generic License:  
 http://creativecommons.org/licenses/by-sa/2.5/
