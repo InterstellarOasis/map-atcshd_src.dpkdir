@@ -7,3 +7,8 @@
 /maps/*.lin
 /maps/*.prt
 /maps/*.srf
+/textures/atcshd/re/*
+src/build/*
+scripts/atcshdre.shader
+*.blend1
+__pycache__
