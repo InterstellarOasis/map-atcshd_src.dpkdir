@@ -2,11 +2,12 @@ import bpy
 import os
 
 
-def render_textures(name, suffix='_remaster', diff_nh=True, clean=True, img_wh=(1,1), scale_px=512):
+def render_textures(name, suffix='_remaster', diff_nh=True, clean=True, img_wh=(1,1), scale_px=512, depth_scale=1.0):
     groupname = f"{name}{suffix}"
     bpy.data.scenes[0].render.resolution_x = round(scale_px * img_wh[0])
     bpy.data.scenes[0].render.resolution_y = round(scale_px * img_wh[1])
     bpy.data.cameras[0].ortho_scale = max(img_wh)
+    bpy.data.scenes[0]["depth_scale"] = depth_scale
 
     if diff_nh:
         bpy.ops.wm.link(
