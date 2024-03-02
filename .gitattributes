@@ -1,0 +1,19 @@
+*			text=auto
+*.map			text eol=lf
+
+# Overabundance of caution
+# TODO: Create a comprehensive list of likely data formats
+# Images
+*.jpg			binary
+*.tga			binary
+*.png			binary
+*.webp			binary
+*.kra			binary
+*.xcf			binary
+# Models
+*.blend			binary
+# Sound
+*.flac			binary
+
+# In unlikely event of needing CRLF in index add exceptions: 
+# *.bat			eol=crlf
