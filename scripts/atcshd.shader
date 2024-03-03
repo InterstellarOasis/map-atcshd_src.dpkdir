@@ -149,17 +149,11 @@ textures/atcshd/cubelight_32_white_s_20k
 	q3map_lightimage textures/atcshd/cubelight_32_white.blend
 	qer_editorimage textures/atcshd/cubelight_32_white
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_white
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_white.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_white
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_white.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -170,17 +164,11 @@ textures/atcshd/cubelight_32_blue_s_20k
 	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
 	qer_editorimage textures/atcshd/cubelight_32_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_blue
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -191,17 +179,11 @@ textures/atcshd/cubelight_32_blue_s_15k
 	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
 	qer_editorimage textures/atcshd/cubelight_32_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_blue
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -212,17 +194,11 @@ textures/atcshd/cubelight_32_blue_s_10k
 	q3map_lightimage textures/atcshd/cubelight_32_blue.blend
 	qer_editorimage textures/atcshd/cubelight_32_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_blue
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -233,17 +209,11 @@ textures/atcshd/cubelight_32_red_s_20k
 	q3map_lightimage textures/atcshd/cubelight_32_red.blend
 	qer_editorimage textures/atcshd/cubelight_32_red
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_red
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_red.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -254,17 +224,11 @@ textures/atcshd/cubelight_32_red_s_15k
 	q3map_lightimage textures/atcshd/cubelight_32_red.blend
 	qer_editorimage textures/atcshd/cubelight_32_red
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_red
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_red.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -275,17 +239,11 @@ textures/atcshd/cubelight_32_red_s_10k
 	q3map_lightimage textures/atcshd/cubelight_32_red.blend
 	qer_editorimage textures/atcshd/cubelight_32_red
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/cubelight_32_red.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/cubelight_32_red
+		heightMap textures/atcshd/re/cubelight_32_h
+		normalMap textures/atcshd/re/cubelight_32_n
+		glowMap textures/atcshd/cubelight_32_red.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -296,17 +254,11 @@ textures/atcshd/eq2lt_baselt03b_blue_s_3000
 	q3map_lightimage textures/atcshd/eq2_baselt03b_blue.blend
 	qer_editorimage textures/atcshd/eq2_baselt03b_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03b_blue
+		heightMap textures/atcshd/re/eq2_baselt03b_h
+		normalMap textures/atcshd/re/eq2_baselt03b_n
+		glowMap textures/atcshd/eq2_baselt03b_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -317,17 +269,11 @@ textures/atcshd/eq2lt_baselt03b_blue_s_2000
 	q3map_lightimage textures/atcshd/eq2_baselt03b_blue.blend
 	qer_editorimage textures/atcshd/eq2_baselt03b_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03b_blue
+		heightMap textures/atcshd/re/eq2_baselt03b_h
+		normalMap textures/atcshd/re/eq2_baselt03b_n
+		glowMap textures/atcshd/eq2_baselt03b_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -338,17 +284,11 @@ textures/atcshd/eq2lt_baselt03b_blue_s_1500
 	q3map_lightimage textures/atcshd/eq2_baselt03b_blue.blend
 	qer_editorimage textures/atcshd/eq2_baselt03b_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03b_blue
+		heightMap textures/atcshd/re/eq2_baselt03b_h
+		normalMap textures/atcshd/re/eq2_baselt03b_n
+		glowMap textures/atcshd/eq2_baselt03b_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -359,17 +299,11 @@ textures/atcshd/eq2lt_baselt03b_s_2000
 	q3map_lightimage textures/atcshd/eq2_baselt03b.blend
 	qer_editorimage textures/atcshd/eq2_baselt03b
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03b
+		heightMap textures/atcshd/re/eq2_baselt03b_h
+		normalMap textures/atcshd/re/eq2_baselt03b_n
+		glowMap textures/atcshd/eq2_baselt03b.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -380,17 +314,11 @@ textures/atcshd/eq2lt_baselt03b_s_1500
 	q3map_lightimage textures/atcshd/eq2_baselt03b.blend
 	qer_editorimage textures/atcshd/eq2_baselt03b
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03b.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03b
+		heightMap textures/atcshd/re/eq2_baselt03b_h
+		normalMap textures/atcshd/re/eq2_baselt03b_n
+		glowMap textures/atcshd/eq2_baselt03b.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -401,17 +329,11 @@ textures/atcshd/eq2_baselt03_blue_s_5000
 	q3map_lightimage textures/atcshd/eq2_baselt03_blue.blend
 	qer_editorimage textures/atcshd/eq2_baselt03_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03_blue
+		heightMap textures/atcshd/re/eq2_baselt03_h
+		normalMap textures/atcshd/re/eq2_baselt03_n
+		glowMap textures/atcshd/eq2_baselt03_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -422,17 +344,11 @@ textures/atcshd/eq2_baselt03_blue_s_3000
 	q3map_lightimage textures/atcshd/eq2_baselt03_blue.blend
 	qer_editorimage textures/atcshd/eq2_baselt03_blue
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03_blue
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_baselt03_blue.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_baselt03_blue
+		heightMap textures/atcshd/re/eq2_baselt03_h
+		normalMap textures/atcshd/re/eq2_baselt03_n
+		glowMap textures/atcshd/eq2_baselt03_blue.blend
+		normalFormat X Y Z
 	}
 }
 
@@ -444,17 +360,11 @@ textures/atcshd/eq2lt_bmtl03light_1000
 	q3map_lightimage textures/atcshd/eq2_bmtl_03_light.blend
 
 	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_bmtl_03_light
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/atcshd/eq2_bmtl_03_light.blend
-		blendfunc GL_ONE GL_ONE
+		diffuseMap textures/atcshd/eq2_bmtl_03_light
+		heightMap textures/atcshd/re/eq2_bmtl_03_light_h
+		normalMap textures/atcshd/re/eq2_bmtl_03_light_n
+		glowMap textures/atcshd/eq2_bmtl_03_light.blend
+		normalFormat X Y Z
 	}
 }
 
