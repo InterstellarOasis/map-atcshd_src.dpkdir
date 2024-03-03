@@ -73,7 +73,7 @@ textures_recipes = (
 )
 
 for position in textures_recipes:
-    position[0].update({'scale_px':256})
+    position[0].update({'scale_px':512})
 
 textures = []
 for recipe, targets in textures_recipes:
