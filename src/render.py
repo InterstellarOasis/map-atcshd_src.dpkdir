@@ -65,8 +65,8 @@ textures_recipes = (
             ('eq2_trimv_04', {'img_wh':(2,0.25), 'diff_nh':False, 'depth_scale':0.5}),
             ('eq2_trimv_10b', {'img_wh':(2,0.5), 'diff_nh':False, 'depth_scale':0.5}),
             ('cubelight_32', {'img_wh':(0.25,0.25), 'diff_nh':False}),
-            ('eq2_baselt03', {'img_wh':(0.5,1), 'diff_nh':False}),
-            ('eq2_baselt03b', {'img_wh':(0.5,2), 'diff_nh':False}),
+            ('eq2_baselt03', {'img_wh':(0.5,1), 'depth_scale':0.5}),
+            ('eq2_baselt03b', {'img_wh':(0.5,2), 'depth_scale':0.5}),
             ('eq2_trimv_mini', {'img_wh':(2,0.125), 'depth_scale':0.25}),
             ('eq2_trimv_mini02', {'img_wh':(2,0.25), 'depth_scale':0.25}),
         )
@@ -81,5 +81,6 @@ for recipe, targets in textures_recipes:
     for target in targets:
         target[1].update(recipe)
     textures.extend(targets)
+
 
 render_all(textures)
