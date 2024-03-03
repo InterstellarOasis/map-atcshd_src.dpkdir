@@ -18,6 +18,7 @@ template = \
 textures = {
     #2x2
     'trak4_tile2b_atcshd': None,
+    'atcshd-pipe': None,
     'eq2_bmtl_02': (
         'eq2_bmtl_02',
         'eq2_bmtl_03',

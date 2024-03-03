@@ -55,6 +55,7 @@ textures_recipes = (
             ('eq2_bmtl_02up', {'depth_scale':0.35}),
             ('eq2_bmtl_03_light', {}),
             ('eq2_bmtl_08', {}),
+            ('atcshd-pipe', {'depth_scale':0.1}),
         )
     ),
     (
