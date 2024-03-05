@@ -22,7 +22,7 @@ textures_recipes = (
         (
             ('webtreats_metal_1', {'diff_nh':False, 'depth_scale':0.1},),
             ('eq2_fgrate_01', {'diff_nh':False, 'depth_scale':0.5},),
-            ('eq2_floor_06b', {'diff_nh':False},),
+            ('eq2_floor_06b', {},),
             ('eq2_grate_01', {'diff_nh':False, 'depth_scale':0.5},),
             ('eq2_bigmet_01', {'diff_nh':False},),
         )
